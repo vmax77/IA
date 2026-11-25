@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Refactors>
+  <Renames>
+    <RenamedType>
+      <Type guid="42c3e586-42df-43ad-b2bd-b53c24193a52">EXAMPLEAPPLICATION</Type>
+      <From>ExampleApplication</From>
+      <To>CSVFileWriter</To>
+    </RenamedType>
+  </Renames>
+</Refactors>
